@@ -14,7 +14,7 @@ exchangelib==4.6.2
 google-api-python-client==2.19.0
 google-auth-oauthlib==0.4.6
 beautifulsoup4==4.10.0
-lxml==4.6.3
+# lxml==4.6.3
 html2text==2020.1.16
 chardet==4.0.0
 python-magic==0.4.24
